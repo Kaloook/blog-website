@@ -1,14 +1,15 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/snake.png
+avatar: /avatar/Robert.jpg
 # author name
 author: Kalokkk
 # signature
-signature: witness me
+signature: 'Hi, I am Kalokkk i am a fresh gradure student from Unitec Auckalnd New Zealand. I am intester in cyber secuity and netwroking. '
 # SNS (you can custom the order)
 social:
  
   github: //github.com/Kaloook
+  linkedin: https://www.linkedin.com/in/jiale-zhao-633a6023b/
   # wechat should be a path of qr-code image path
   wechat: /assets/ALok_QRcode.jpg
   # qq should be a path of qr-code image path
@@ -33,15 +34,15 @@ friends:
   # friendA: //www.baidu.com
   # friendB: //www.google.com
 about:
-  enable: true
+  enable: false
   image: /intro/about-bg.jpg
 # Search for website
 search:
   enable: false
   # Seach URL, must be set. For example: 'fi3ework.github.io'
-  url: 
+  url: kalok.shop
   # Search engine: 'bing' (default), 'google' or 'baidu'
-  engine: bing
+  engine:  google
 # Display icons of friends, about and search
 # You can only use free icons started with 'fab' and 'fas' by default
 # https://fontawesome.com/v5.15/icons?d=gallery&p=2&s=brands,solid&m=free
@@ -61,16 +62,16 @@ profile_links:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: Kalokkk's Blog s Studio
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: Kalokkk's Blog s Studio
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle:  Exploring Cybersecurity, Networking, and Code – One Post at a Time
 # site haeder image
 site_header_image: /intro/index-bg.jpg
 # post haeder image
@@ -169,7 +170,7 @@ comment:
 
 # ========== Analytics ========== #
 # enable Busuanzi analytics
-busuanzi: true
+busuanzi: false
 # fill in pv or uv
 busuanzi_pv_or_uv: 'pv'
 # custom analytic slogan, '${count}' is the analytic number, DO NOT modify it.
@@ -188,13 +189,13 @@ favicon: /assets/favicon.ico
 copyright:
   enable: true
   # https://creativecommons.org/
-  license: '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
+  license: 'This article is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.'
 # Website Approve
 website_approve:
   enable: false
   icp_approve: 
   beian_approve: 
-  beian_img: /assets/beian.png
+  beian_img: 
 # Blog page article timeliness note
 outdated_threshold:
   enable: false
